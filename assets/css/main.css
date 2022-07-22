@@ -49,9 +49,14 @@ blockquote, q {
 }
 .container-photo{
 	display: flex;
-	
+
 
 }
+.features-section{
+	display: flex;
+	justify-content: center;
+}
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
