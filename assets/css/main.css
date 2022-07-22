@@ -44,7 +44,14 @@ blockquote, q {
 		content: '';
 		content: none;
 	}
+.image-icon{
+	max-width: 60px;
+}
+.container-photo{
+	display: flex;
+	
 
+}
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
