@@ -735,3 +735,14 @@ a:focus {
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
+
+.skill-image-photo{
+  width: 15px;
+  height: 15px;
+}
+
+.image-container-pictures{
+  display: flex;
+  flex-direction: row;
+  max-width: 40px;
+}
