@@ -73,6 +73,10 @@ blockquote, q {
 	align-items: center;
 }
 
+.skillImage{
+	width: 60px;
+}
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
