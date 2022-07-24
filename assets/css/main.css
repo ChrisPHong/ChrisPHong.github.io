@@ -61,6 +61,9 @@ blockquote, q {
 	align-items: center;
 	flex-direction: row;
 }
+.someSpace{
+	margin-left: 10px;
+}
 .features-section{
 	display: flex;
 	justify-content: space-between;
