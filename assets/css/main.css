@@ -52,6 +52,15 @@ blockquote, q {
 
 
 }
+.headshotPicture{
+	max-width: 300px;
+}
+.picture-and-content{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+}
 .features-section{
 	display: flex;
 	justify-content: space-between;
