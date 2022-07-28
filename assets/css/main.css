@@ -86,7 +86,8 @@ blockquote, q {
 } */
 
 .picture-projects{
-	width: 100px;
+	width: 450px;
+    border-radius: 5px 5px;
 }
 table {
 	border-collapse: collapse;
