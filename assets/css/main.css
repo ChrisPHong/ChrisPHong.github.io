@@ -84,6 +84,10 @@ blockquote, q {
     justify-content: end;
     align-items: center;
 } */
+
+.picture-projects{
+	width: 100px;
+}
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
